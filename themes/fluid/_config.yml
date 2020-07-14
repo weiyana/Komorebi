@@ -223,9 +223,9 @@ post:
 # utterances
 # You can install utterances with https://utteranc.es/ and generate your configuration
 utterances:
-  repo: "[ENTER REPO HERE]"
+  repo: weiyana/Komorebi
   issue_term: pathname
-  label: utterances
+  label: 
   theme: github-light
   crossorigin: anonymous
 
