@@ -99,6 +99,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/weiyana/Komorebi
+  repo: https://github.com/weiyana/Komorebi #git@120.55.193.106:/home/git/blog.git
   branch: master
   message: 
