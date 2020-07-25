@@ -166,7 +166,7 @@ index:
 # 通过 hexo new page 命令创建的页面
 # Custom Page
 page:
-  banner_img: /img/default.png
+  banner_img: /img/summer.png
   banner_img_height: 70  # available: 0 - 100
 
 #---------------------------
